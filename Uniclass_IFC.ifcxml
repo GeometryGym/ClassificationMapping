@@ -4595,7 +4595,7 @@
                         <IfcClassificationReference Identification="Pr_20_76_08_88" Name="Timber bollards" />
                       </HasReferences>
                     </IfcClassificationReference>
-                    <IfcClassificationReference Identification="Pr_20_76_51" Name="Metal sections">
+                    <IfcClassificationReference id="Pr_20_76_51" Identification="Pr_20_76_51" Name="Metal sections">
                       <HasReferences>
                         <IfcClassificationReference Identification="Pr_20_76_51_01" Name="Aluminium cold drawn bars and rods" />
                         <IfcClassificationReference Identification="Pr_20_76_51_02" Name="Aluminium curtain wall frame sections" />
@@ -4632,7 +4632,7 @@
                         <IfcClassificationReference Identification="Pr_20_76_51_98" Name="Wrought iron sections" />
                       </HasReferences>
                     </IfcClassificationReference>
-                    <IfcClassificationReference Identification="Pr_20_76_52" Name="Metal tubes and hollow sections">
+                    <IfcClassificationReference id="Pr_20_76_52" Identification="Pr_20_76_52" Name="Metal tubes and hollow sections">
                       <HasReferences>
                         <IfcClassificationReference Identification="Pr_20_76_52_01" Name="Aluminium cold drawn tubes" />
                         <IfcClassificationReference Identification="Pr_20_76_52_03" Name="Aluminium extruded tubes" />
@@ -4643,7 +4643,7 @@
                         <IfcClassificationReference Identification="Pr_20_76_52_86" Name="Stainless steel welded circular tubes" />
                       </HasReferences>
                     </IfcClassificationReference>
-                    <IfcClassificationReference Identification="Pr_20_76_63" Name="Plastics sections">
+                    <IfcClassificationReference id="Pr_20_76_63" Identification="Pr_20_76_63" Name="Plastics sections">
                       <HasReferences>
                         <IfcClassificationReference Identification="Pr_20_76_63_30" Name="Flexible foam rods" />
                         <IfcClassificationReference Identification="Pr_20_76_63_33" Name="Glass-reinforced plastics (GRP) angle sections" />
@@ -4715,7 +4715,7 @@
                         <IfcClassificationReference Identification="Pr_20_76_70_90" Name="Transition rails" />
                       </HasReferences>
                     </IfcClassificationReference>
-                    <IfcClassificationReference Identification="Pr_20_76_71" Name="Railway junction works">
+                    <IfcClassificationReference id="Pr_20_76_71" Identification="Pr_20_76_71" Name="Railway junction works">
                       <HasReferences>
                         <IfcClassificationReference Identification="Pr_20_76_71_15" Name="Common crossings" />
                         <IfcClassificationReference Identification="Pr_20_76_71_17" Name="Crossovers" />
@@ -4917,9 +4917,9 @@
                     </IfcClassificationReference>
                     <IfcClassificationReference id="Pr_20_85_11" Identification="Pr_20_85_11" Name="Bridge suspension cables">
                       <HasReferences>
-                        <IfcClassificationReference Identification="Pr_20_85_11_48" Name="Locked coil strand cables" />
-                        <IfcClassificationReference Identification="Pr_20_85_11_60" Name="Parallel wire strand cables" />
-                        <IfcClassificationReference Identification="Pr_20_85_11_80" Name="Spiral strand cables" />
+                        <IfcClassificationReference id="Pr_20_85_11_48" Identification="Pr_20_85_11_48" Name="Locked coil strand cables" />
+                        <IfcClassificationReference id="Pr_20_85_11_60" Identification="Pr_20_85_11_60" Name="Parallel wire strand cables" />
+                        <IfcClassificationReference id="Pr_20_85_11_80" Identification="Pr_20_85_11_80" Name="Spiral strand cables" />
                       </HasReferences>
                     </IfcClassificationReference>
                     <IfcClassificationReference Identification="Pr_20_85_12" Name="Bunds and ducts">
@@ -4930,10 +4930,10 @@
                     </IfcClassificationReference>
                     <IfcClassificationReference Identification="Pr_20_85_13" Name="Concrete base and foundation products">
                       <HasReferences>
-                        <IfcClassificationReference Identification="Pr_20_85_13_29" Name="Concrete bases for fence posts" />
+                        <IfcClassificationReference id="Pr_20_85_13_29" Identification="Pr_20_85_13_29" Name="Concrete bases for fence posts" />
                         <IfcClassificationReference Identification="Pr_20_85_13_30" Name="Concrete floating slab foundations" />
-                        <IfcClassificationReference Identification="Pr_20_85_13_32" Name="Concrete foundation pads" />
-                        <IfcClassificationReference Identification="Pr_20_85_13_35" Name="Concrete ground beams" />
+                        <IfcClassificationReference id="Pr_20_85_13_32" Identification="Pr_20_85_13_32" Name="Concrete foundation pads" />
+                        <IfcClassificationReference id="Pr_20_85_13_35" Identification="Pr_20_85_13_35" Name="Concrete ground beams" />
                         <IfcClassificationReference Identification="Pr_20_85_13_63" Name="Concrete plinth units" />
                         <IfcClassificationReference Identification="Pr_20_85_13_65" Name="Concrete pocket foundations" />
                       </HasReferences>
@@ -4942,7 +4942,7 @@
                       <HasReferences>
                         <IfcClassificationReference Identification="Pr_20_85_14_14" Name="Concrete hollow core slabs" />
                         <IfcClassificationReference Identification="Pr_20_85_14_15" Name="Concrete kentledge blocks" />
-                        <IfcClassificationReference Identification="Pr_20_85_14_16" Name="Concrete solid slabs" />
+                        <IfcClassificationReference id="Pr_20_85_14_16" Identification="Pr_20_85_14_16" Name="Concrete solid slabs" />
                       </HasReferences>
                     </IfcClassificationReference>
                     <IfcClassificationReference id="Pr_20_85_16" Identification="Pr_20_85_16" Name="Columns and column accessories">
@@ -5090,7 +5090,7 @@
                         <IfcClassificationReference Identification="Pr_20_85_62_16" Name="Composite steel sheet piles" />
                         <IfcClassificationReference Identification="Pr_20_85_62_17" Name="Concrete cantilevered knuckle piles" />
                         <IfcClassificationReference Identification="Pr_20_85_62_18" Name="Concrete piles" />
-                        <IfcClassificationReference Identification="Pr_20_85_62_19" Name="Concrete pile caps" />
+                        <IfcClassificationReference id="Pr_20_85_62_19" Identification="Pr_20_85_62_19" Name="Concrete pile caps" />
                         <IfcClassificationReference Identification="Pr_20_85_62_23" Name="Concrete sheet piles" />
                         <IfcClassificationReference Identification="Pr_20_85_62_36" Name="Hardwood piles" />
                         <IfcClassificationReference Identification="Pr_20_85_62_64" Name="Plastics drainage weep holes" />
@@ -19819,7 +19819,7 @@
       </HasReferences>
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcRelAssociatesClassification GlobalId="0QTMseGej1agOZVyL9EVjJ">
+  <IfcRelAssociatesClassification GlobalId="2hBtLKG$r9dOBa0LzAYsom">
     <RelatedObjects>
       <IfcProjectLibrary xsi:nil="true" href="i1" />
     </RelatedObjects>
@@ -19938,9 +19938,17 @@
                     </IfcClassificationReference>
                     <IfcClassificationReference id="IfcColumn" Identification="IfcColumn" />
                     <IfcClassificationReference id="IfcCovering" Identification="IfcCovering" />
-                    <IfcClassificationReference Identification="IfcMember">
+                    <IfcClassificationReference id="IfcFooting" Identification="IfcFooting">
+                      <HasReferences>
+                        <IfcClassificationReference id="IfcFooting.FOOTING_BEAM" Identification="IfcFooting.FOOTING_BEAM" Description="Footing elements that are in bending and are supported clear of the ground. They will normally span between piers, piles or pile caps. They are distinguished from beams in the building superstructure since they will normally require a lower grade of finish. They are distinguished from _STRIP_FOOTING_ since they are clear of the ground surface and hence require support to the lower face while the concrete is curing." />
+                        <IfcClassificationReference id="IfcFooting.PAD_FOOTING" Identification="IfcFooting.PAD_FOOTING" Description="An element that transfers the load of a single column (possibly two) to the ground." />
+                        <IfcClassificationReference id="IfcFooting.PILE_CAP" Identification="IfcFooting.PILE_CAP" Description="An element that transfers the load from a column or group of columns to a pier or pile or group of piers or piles." />
+                      </HasReferences>
+                    </IfcClassificationReference>
+                    <IfcClassificationReference id="IfcMember" Identification="IfcMember">
                       <HasReferences>
                         <IfcClassificationReference id="IfcMember.POST" Identification="IfcMember.POST" Description="FORMER: A linear member (usually used vertically) within a roof structure to support purlins.  &#xA;&lt;font color=&quot;#ff0000&quot;&gt;PROPOSED: A linear (usually vertical) member used to support something or to mark a point.&lt;/font&gt;" />
+                        <IfcClassificationReference id="IfcMember.STRUCTURALCABLE" Identification="IfcMember.STRUCTURALCABLE" Description="A linear cable element used to secure or stabilise a structure by resisting lateral and longitudinal loading  through tension only, but cannot resist compression. usually formed of a flexible cable or wire." />
                         <IfcClassificationReference id="IfcMember.SUSPENSION_CABLE" Identification="IfcMember.SUSPENSION_CABLE" Description="A suspended element, typically comprising steel wire, sheath, etc." />
                       </HasReferences>
                     </IfcClassificationReference>
@@ -19959,6 +19967,7 @@
                     <IfcClassificationReference id="IfcRoof" Identification="IfcRoof" />
                     <IfcClassificationReference Identification="IfcSlab">
                       <HasReferences>
+                        <IfcClassificationReference id="IfcSlab.BASESLAB" Identification="IfcSlab.BASESLAB" Description="The slab is used to represent a floor slab against the ground (and thereby being a part of the foundation). Another name is mat foundation." />
                         <IfcClassificationReference id="IfcSlab.FLOOR" Identification="IfcSlab.FLOOR" Description="The slab is used to represent a floor slab or a bridge deck." />
                       </HasReferences>
                     </IfcClassificationReference>
@@ -19993,7 +20002,7 @@
                     </IfcClassificationReference>
                   </HasReferences>
                 </IfcClassificationReference>
-                <IfcClassificationReference Identification="IfcElementAssembly">
+                <IfcClassificationReference id="IfcElementAssembly" Identification="IfcElementAssembly">
                   <HasReferences>
                     <IfcClassificationReference id="IfcElementAssembly.TURNOUTPANEL" Identification="IfcElementAssembly.TURNOUTPANEL" Description="Trackwork ensuring the support and guidance of a vehicle along any given route among various diverging or intersecting tracks.&#xA;Note: definition from NF EN 13232-1-2004. " />
                   </HasReferences>
@@ -20027,6 +20036,7 @@
                   <HasReferences>
                     <IfcClassificationReference id="IfcFacility" Identification="IfcFacility">
                       <HasReferences>
+                        <IfcClassificationReference id="IfcBridge" Identification="IfcBridge" />
                         <IfcClassificationReference id="IfcBuilding" Identification="IfcBuilding" />
                         <IfcClassificationReference id="IfcMarineFacility" Identification="IfcMarineFacility">
                           <HasReferences>
@@ -20041,7 +20051,6 @@
                     </IfcClassificationReference>
                     <IfcClassificationReference id="IfcFacilityPart" Identification="IfcFacilityPart">
                       <HasReferences>
-                        <IfcClassificationReference id="IfcFacilityPart.IfcBridgePartTypeEnum" Identification="IfcFacilityPart.IfcBridgePartTypeEnum" />
                         <IfcClassificationReference id="IfcFacilityPart.IfcRailwayPartTypeEnum" Identification="IfcFacilityPart.IfcRailwayPartTypeEnum" Description="The IfcRailwayPartTypeEnum defines the range of different types of railway part that can be specified." />
                         <IfcClassificationReference id="IfcFacilityPart.IfcRoadPartTypeEnum" Identification="IfcFacilityPart.IfcRoadPartTypeEnum" />
                       </HasReferences>
@@ -20217,6 +20226,12 @@
     <RelatingReference xsi:nil="true" href="IfcBoiler" />
     <RelatedResourceObjects>
       <IfcClassificationReference xsi:nil="true" href="Pr_60_60_08" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcBridge" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="En_80_94" />
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
@@ -20536,6 +20551,12 @@
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcElementAssembly" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_76_71" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
     <RelatingReference xsi:nil="true" href="IfcElementAssembly.TURNOUTPANEL" />
     <RelatedResourceObjects>
       <IfcClassificationReference xsi:nil="true" href="Pr_20_76_71_91" />
@@ -20557,12 +20578,6 @@
     <RelatingReference xsi:nil="true" href="IfcFacilityPart" />
     <RelatedResourceObjects>
       <IfcClassificationReference xsi:nil="true" href="En" />
-    </RelatedResourceObjects>
-  </IfcExternalReferenceRelationship>
-  <IfcExternalReferenceRelationship>
-    <RelatingReference xsi:nil="true" href="IfcFacilityPart.IfcBridgePartTypeEnum" />
-    <RelatedResourceObjects>
-      <IfcClassificationReference xsi:nil="true" href="En_80_94" />
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
@@ -20614,6 +20629,30 @@
       <IfcClassificationReference xsi:nil="true" href="EF_40_20" />
       <IfcClassificationReference xsi:nil="true" href="Pr_65_52" />
       <IfcClassificationReference xsi:nil="true" href="Pr_65_65_25" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcFooting" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_13_29" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcFooting.FOOTING_BEAM" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_13_35" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcFooting.PAD_FOOTING" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_13_32" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcFooting.PILE_CAP" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_62_19" />
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
@@ -20756,11 +20795,27 @@
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcMember" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_76_51" />
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_76_52" />
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_76_63" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
     <RelatingReference xsi:nil="true" href="IfcMember.POST" />
     <RelatedResourceObjects>
       <IfcClassificationReference xsi:nil="true" href="Pr_20_76_64" />
       <IfcClassificationReference xsi:nil="true" href="Pr_20_85_50" />
       <IfcClassificationReference xsi:nil="true" href="Pr_20_85_50_01" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcMember.STRUCTURALCABLE" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_11_48" />
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_11_60" />
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_11_80" />
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
@@ -20847,6 +20902,12 @@
     <RelatingReference xsi:nil="true" href="IfcSign.MARKER" />
     <RelatedResourceObjects>
       <IfcClassificationReference xsi:nil="true" href="Pr_40_10_57_50" />
+    </RelatedResourceObjects>
+  </IfcExternalReferenceRelationship>
+  <IfcExternalReferenceRelationship>
+    <RelatingReference xsi:nil="true" href="IfcSlab.BASESLAB" />
+    <RelatedResourceObjects>
+      <IfcClassificationReference xsi:nil="true" href="Pr_20_85_14_16" />
     </RelatedResourceObjects>
   </IfcExternalReferenceRelationship>
   <IfcExternalReferenceRelationship>
